@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@3rdweb/sdk": "^1.42.1",
     "@sanity/client": "^6.8.5",
     "next": "14.0.2",
     "react": "^18",
