@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@sanity/client": "^6.8.5",
+    "@thirdweb-dev/react": "^4.1.7",
+    "@thirdweb-dev/sdk": "^4.0.14",
+    "ethers": "^5.7.2",
     "next": "14.0.2",
     "react": "^18",
     "react-dom": "^18",
